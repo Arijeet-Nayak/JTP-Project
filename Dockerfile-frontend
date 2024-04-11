@@ -1,0 +1,13 @@
+FROM node:lts
+
+WORKDIR /app
+
+COPY ./job-recommendation-app/package*.json ./
+
+RUN npm install
+
+COPY ./job-recommendation-app .
+
+EXPOSE 3000
+
+CMD ["npm", "start"]

@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #282c34;
+}
+
+.home{
+    /* background-color: aquamarine; */
+    color: white;
+    height: auto;
+    padding-left: 10%;
+    margin-top: 5%;
+    border-radius: 5px;
+}
+.home .label{
+    font-size: 1.5vw;
+}
+.home .label:hover{
+    
+    color: rgb(176, 254, 245);
+}
+.selectoption{
+    color: white;
+    background-color: rgb(30, 203, 251);
+    border: none;
+    border-radius: 2px;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    padding: 8px 10px;
+}
+.selectoption:hover{
+    box-shadow: 1px 1px 4px 5px rgba(147, 198, 211, 0.4);
+    cursor: pointer;
+}
+.home button{
+    color: white;
+    background-color: rgb(41, 203, 49);
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    
+}
+.home button:hover{
+    box-shadow: 1px 1px 4px 5px rgba(72, 255, 145, 0.4);
+    cursor: pointer;
+    transform: scale(1);
+}
+.showlist h2{
+    margin-top: 10px;
+}
+.showlist ul li{
+    list-style-type: none;  
+    color: white;
+}
