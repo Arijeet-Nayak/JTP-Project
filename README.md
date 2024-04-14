@@ -82,7 +82,7 @@ The machine learning aspect of this project involves the following steps:
   <img src="https://i.postimg.cc/fyBpK7Ks/Screenshot-2024-04-14-185555.png" width="80%"/>
   <br>
   <h5>Get Recommendation</h5>
-  <img src="https://i.postimg.cc/6QJjC1XR/Screenshot-2024-04-14-185721.png" width="80%"/>
+  <img src="[https://i.postimg.cc/6QJjC1XR/Screenshot-2024-04-14-185721.png](https://i.postimg.cc/6QJjC1XR/Screenshot-2024-04-14-185721.png)" width="80%"/>
 </p>
 
 
