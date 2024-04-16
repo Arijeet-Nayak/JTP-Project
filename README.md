@@ -152,6 +152,37 @@ The machine learning aspect of this project involves the following steps:
 4. **Access Frontend**
    - Open a web browser and go to `http://localhost:3000` to access the frontend interface.
 
+
+##Installation Process
+
+1. **Start Docker**
+<p align = "center">
+  <img src="https://i.postimg.cc/xCCrTmM1/Screenshot-2024-04-16-175914.png" width="80%"/>
+  <h5>The green status bar on the bottom left shows that docker is running successfully</h5>
+</p>
+
+2. **Terminal**
+<p align = "center">
+  <img src="https://i.postimg.cc/CLyc1DVL/Screenshot-2024-04-16-180539.png" width="80%"/>
+  <h5>Copy paste the terminal commands and run it</h5>
+</p>
+
+3. **Copied Repo**
+<p align = "center">
+  <img src="https://i.postimg.cc/Y0yk63NV/Screenshot-2024-04-16-180746.png" width="80%"/>
+  <h5>Get all the files and requirements</h5>
+</p>
+
+4. **Run Docker command**
+<p align = "center">
+  <img src="https://i.postimg.cc/4yC4qwH9/Screenshot-2024-04-16-181100.png" width="80%"/>
+  <h5>It will run the project via Docker</h5>
+</p>
+<p align = "center">
+  <img src="https://i.postimg.cc/dVcdrmWD/Screenshot-2024-04-16-181534.png" width="80%"/>
+  <h5>It will create a container and images</h5>
+  </p>
+  
 ## Usage
 
 1. **Frontend Interface**
